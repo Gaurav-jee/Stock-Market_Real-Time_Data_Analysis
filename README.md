@@ -24,6 +24,10 @@ Python, Kafka, aws S3, aws Glue, aws Athena
     - Producers <-> Topic: N to N Relation
     - Unlimited Number of Topics
   *
-  
+  *
+  *
+  *
+  * ![image](https://user-images.githubusercontent.com/40340633/209475525-7eede196-e7dc-48f2-950a-6824eb3e486f.png#center)
+
 
 
